@@ -4,7 +4,7 @@ def cal(**args):
     print("args.get('name')",args.get("name"))
     sum=0
     for key,value in args.items():
-        sum+=args.get(key)
+        sum+=value
     print(f"Sum of {args.values()} is {sum}")
 
 cal(a=10,b=20,c=30,d=400,e=50,f=60)
