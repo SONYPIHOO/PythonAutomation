@@ -1,0 +1,6 @@
+
+from pyspark.sql import SparkSession
+from pyspark.sql.function import upper,col
+spark =(SparkSession.builder.appName("dataframe").getOrCreate())
+dataList = [("Java",2000,4,5),("Python",30000,3,6)]
+schema
