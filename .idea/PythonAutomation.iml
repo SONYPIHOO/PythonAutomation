@@ -4,7 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <content url="file://D:/spark-3.5.0-bin-hadoop3/python" />
     <content url="jar://D:/spark-3.5.0-bin-hadoop3/python/lib/py4j-0.10.9.7-src.zip!/" />
-    <orderEntry type="inheritedJdk" />
+    <orderEntry type="jdk" jdkName="Python 3.11" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
